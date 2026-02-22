@@ -39,6 +39,4 @@ Dashboard Features
 - Category-wise Bar Charts
 - Region-wise Performance Analysis
 - Drill-down functionality
-Aspiring Data Analyst
-
-If you'd like, I can now make it even more corporate and minimal (the type recruiters in MNCs prefer).
+  
